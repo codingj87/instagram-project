@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5539951f-74b8-4143-9d72-49c7b552a24e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/instagram/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/member/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRESS" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/instagram/config/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/instagram/config/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram/member/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/instagram/member/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram/member/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/instagram/member/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/instagram/member/migrations/0001_initial.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -53,16 +47,16 @@
         <entry file="file://$PROJECT_DIR$/instagram/member/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/instagram/config/urls.py">
+        <entry file="file://$PROJECT_DIR$/PROGRESS">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+            <state>
+              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -71,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/contrib/auth/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="317" column="21" lean-forward="true" selection-start-line="317" selection-start-column="21" selection-end-line="317" selection-end-column="21" />
+              <caret line="317" column="21" selection-start-line="317" selection-start-column="21" selection-end-line="317" selection-end-column="21" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -99,6 +93,7 @@
         <option value="$PROJECT_DIR$/instagram/member/admin.py" />
         <option value="$PROJECT_DIR$/instagram/config/settings.py" />
         <option value="$PROJECT_DIR$/instagram/config/urls.py" />
+        <option value="$PROJECT_DIR$/PROGRESS" />
       </list>
     </option>
   </component>
@@ -119,125 +114,6 @@
             <path>
               <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="instagram-project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="instagram-project" type="462c0819:PsiDirectoryNode" />
-              <item name="instagram" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="instagram-project" type="462c0819:PsiDirectoryNode" />
-              <item name="instagram" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="instagram-project" type="462c0819:PsiDirectoryNode" />
-              <item name="instagram" type="462c0819:PsiDirectoryNode" />
-              <item name="member" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="instagram-project" type="462c0819:PsiDirectoryNode" />
-              <item name="instagram" type="462c0819:PsiDirectoryNode" />
-              <item name="member" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="instagram-project" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="instagram-project" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="instagram-project" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="instagram-project" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="instagram-project" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="instagram-project" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-              <item name="contrib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="instagram-project" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-              <item name="contrib" type="462c0819:PsiDirectoryNode" />
-              <item name="auth" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (instagram-project) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (instagram-project) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (instagram-project) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (instagram-project) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-              <item name="contrib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="instagram-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (instagram-project) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-              <item name="contrib" type="462c0819:PsiDirectoryNode" />
-              <item name="auth" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -299,11 +175,25 @@
       <option name="project" value="LOCAL" />
       <updated>1567500506062</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Setting model &amp; User&#10;&#10;모델을 셋팅하고 User 모델을 재정의? 했다">
+      <created>1567582499454</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567582499454</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create superuser">
+      <created>1567582606243</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567582606243</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3076000" />
+    <option name="totallyTimeSpent" value="4838000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -316,12 +206,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1990" y="27" width="1850" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="DB Browser" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.25556794" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.25556794" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -330,10 +219,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4994432" weight="0.32925472" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5757238" visible="true" weight="0.44170403" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.46714923" visible="true" weight="0.44170403" />
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.42427617" side_tool="true" visible="true" weight="0.44170403" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.5328508" side_tool="true" visible="true" weight="0.44170403" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4532294" weight="0.4983315" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -390,7 +279,9 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Start django project" />
     <MESSAGE value="Start app member" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start app member" />
+    <MESSAGE value="Setting model &amp; User&#10;&#10;모델을 셋팅하고 User 모델을 재정의? 했다" />
+    <MESSAGE value="Create superuser" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create superuser" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/manage.py">
@@ -422,7 +313,7 @@
     <entry file="file://$PROJECT_DIR$/instagram/member/migrations/0001_initial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -439,7 +330,7 @@
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/contrib/auth/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="317" column="21" lean-forward="true" selection-start-line="317" selection-start-column="21" selection-end-line="317" selection-end-column="21" />
+          <caret line="317" column="21" selection-start-line="317" selection-start-column="21" selection-end-line="317" selection-end-column="21" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -453,17 +344,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/instagram/member/models.py">
+    <entry file="file://$PROJECT_DIR$/instagram/config/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="340">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/instagram/config/urls.py">
+    <entry file="file://$PROJECT_DIR$/instagram/db.sqlite3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instagram/member/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROGRESS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
